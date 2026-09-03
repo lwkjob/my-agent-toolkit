@@ -1,3 +1,4 @@
-https://github.com/harry0703/MoneyPrinterTurbo  利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频
-https://github.com/geeklee/srt-whiteboard-animation 白板动画
-https://github.com/remotion-dev/remotion 面向AI agent 时代的视频工具
+- https://github.com/harry0703/MoneyPrinterTurbo  利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频
+- https://github.com/geeklee/srt-whiteboard-animation 白板动画
+- https://github.com/remotion-dev/remotion 面向AI agent 时代的视频工具
+- https://github.com/heygen-com/hyperframes 写 HTML，渲染视频，专为 AI Agent 设计 —— HeyGen 开源的 HTML→MP4 确定性视频渲染框架（Apache 2.0）。
